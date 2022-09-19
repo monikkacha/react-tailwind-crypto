@@ -1,7 +1,9 @@
+import Index from "./pages";
+
 function App() {
   return (
     <div className="">
-      Hey , Guys how you going ?
+      <Index />
     </div>
   );
 }
